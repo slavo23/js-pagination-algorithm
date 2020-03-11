@@ -1,7 +1,7 @@
 This is my implementation of pagination algorithm using javascript.
 
 ```
-    The instance of a class should takes
+    The instance of a class takes
     two arguments:
 
     let a = [your_array_of_elements]
