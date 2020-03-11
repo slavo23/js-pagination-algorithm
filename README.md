@@ -15,7 +15,7 @@ This is my implementation of pagination algorithm using javascript.
     p.next()
     //Returns next set of elements
     p.previous()
-    //Returns pervious set of elements
+    //Returns previous set of elements
     p.moveTo(address)
     //Returns elements located on a specific address.
     //Addresses can be accessed using p.current (current page) and p.pages(pages count)
