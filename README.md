@@ -1,5 +1,4 @@
-This is my implementation of pagination algorithm using javascript. The instance of a class should takes
-two arguments:
+This is my implementation of pagination algorithm using javascript.
 
 ```
     The instance of a class should takes
