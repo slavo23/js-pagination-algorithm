@@ -1,0 +1,19 @@
+{
+  "name": "pagination-algorithm-js",
+  "version": "1.0.0",
+  "description": "Simple pagination algorithm for dynamic web apps",
+  "main": "paginator.js",
+  "scripts": {
+    "test": "node paginator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavo23/js-pagination-algorithm.git"
+  },
+  "author": "Stanislav Gorborukov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slavo23/js-pagination-algorithm/issues"
+  },
+  "homepage": "https://github.com/slavo23/js-pagination-algorithm#readme"
+}

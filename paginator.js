@@ -1,4 +1,4 @@
-class Paginator {
+export default class Paginator {
     constructor(inputArray, threshold) {
         this.inputArray = inputArray
         this.threshold = threshold
